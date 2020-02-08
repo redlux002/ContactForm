@@ -1,0 +1,22 @@
+{
+  "name": "contactform",
+  "version": "1.0.0",
+  "description": "Simple Contact Form",
+  "main": "index.js",
+  "homepage": "https://github.com/redlux002/ContactForm",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redlux002/ContactForm.git"
+  },
+  "author": "Francis Gabuyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redlux002/ContactForm/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
